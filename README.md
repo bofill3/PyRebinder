@@ -1,6 +1,6 @@
 # PyRebinder
 
-![Screenshot of PyRebinder](./screenshots/screenshot1.jpg)
+![Screenshot of PyRebinder](./screenshots/screenshot.png)
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# PyRebinder
+# PyRebinder: DNS Rebinding Tool
 
 ![Screenshot of PyRebinder](./screenshots/screenshot.png)
 

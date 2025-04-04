@@ -68,7 +68,7 @@ When deploying on AWS, ensure that no system service interferes with PyRebinder'
 
 ## License
 
-
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
